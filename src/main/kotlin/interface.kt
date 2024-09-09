@@ -1,5 +1,3 @@
-import java.util.Objects
-
 fun main(){
     dragObjects(arrayOf(CIRCLE(4.0), SQUARE(4.0), TRAINGLE(2.0,3.0), Player("Shubham")))
 }
