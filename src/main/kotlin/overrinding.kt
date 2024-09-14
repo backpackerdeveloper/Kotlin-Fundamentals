@@ -3,6 +3,7 @@ fun main(){
     val oneplus = OnePlus()
 
     oneplus.display()
+    println(oneplus.size)
 }
 
 open class Mobile(){
